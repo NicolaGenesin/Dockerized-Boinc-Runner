@@ -6,4 +6,4 @@ services:
         environment:
             boincurl: http://boinc.bakerlab.org/rosetta/
             boinckey: 330874_9b58af7753078fba304b0f4596132270
-        container_name: rosetta@home
+        container_name: rosetta_at_home
